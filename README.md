@@ -64,7 +64,7 @@
 
 <div align="center">
 <img src="https://www.patrickndayambaje.me/logo.svg" width="90" height="90">
-<img src="https://raw.githubusercontent.com/patrick-n4/patrick-n4/44159ac7dad661b680099571351561b8a02200e5/public/Others/waves/waves.svg" >
+<img src="https://raw.githubusercontent.com/patrick-n4/portofolio/a541f64b5b8c2fd167d74a3a8d46de9b1c4f6032/public/waves.svg?token=AXJMSVSBNEW2AIXJKKS4X3DCZZOXS" >
 </div>
 <!--
 **patrick-n4/patrick-n4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
