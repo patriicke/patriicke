@@ -58,8 +58,8 @@
 </a>
 <br>
 <hr>
-<h3>I’m open to collaborate on every project</h3>
-<h3>Last but not least I like playing football</h3>
+<h3>I’m open to collaborate on every project.</h3>
+<h3>Last but not least I like playing football.</h3>
 <hr>  
 
 <div align="center">
