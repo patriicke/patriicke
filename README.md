@@ -12,7 +12,7 @@
 <td>Express.js</td>
 </tr>
 <tr>
-<td>Angular 4</td>
+<td>Angular</td>
 <td>Laravel</td>
 </tr>
 <tr><td>Vuejs</td>
@@ -30,6 +30,9 @@
 <td></td>
 </tr>
 <tr><td>Sass</td>
+<td></td>
+<tr>
+<tr><td>Nextjs</td>
 <td></td>
 <tr>
 </table>
