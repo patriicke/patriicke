@@ -39,7 +39,7 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=patrick-n4&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
 <h3>Checkout my portofolio <a href="https://www.patrickndayambaje.me" target="_blank">patrickndayambaje</a></h3>
-<hr>
+
 <h3> You can also reach me using: </h3>
 <a target="_blank" href="https://www.linkedin.com/in/ndayambaje-patrick-90737022b/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -60,10 +60,8 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
-<hr>
 <h3>I’m open to collaborate on every project.</h3>
 <h3>Last but not least I like playing football.</h3>
-<hr>  
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/patrick-n4/patrick-n4/d46037d61ec3f7cae5068d086a4318aa7164633d/logos/logo.svg" width="90" height="90">
