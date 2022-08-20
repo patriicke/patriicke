@@ -1,8 +1,8 @@
 <h2>Hi 👋 I am Patrick NDAYAMBAJE</h2>
-<h4>I am a Fullstack developer based in Rwanda.<h4>
+<p>I am a Fullstack developer based in Rwanda.<p>
 <p>For more information click  <a href="https://www.patrickndayambaje.me" target="_blank">here</a></p>
 <a href="https://github.com/patrick-n4" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-n4&langs_count=6&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Programming%20Languages&hide=php,html,Less,SCSS,CSS" alt="Mostly used programming languages" /></a>
-<p> You can reach me via: </p>
+<p>Let's have connection</p>
 <a target="_blank" href="https://www.linkedin.com/in/ndayambaje-patrick-90737022b/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
