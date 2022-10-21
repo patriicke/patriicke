@@ -21,6 +21,7 @@
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100076022093184">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patriicke&show_icons=true&locale=en&layout=compact" alt="manzi-cedrick" /></p> -->
 <!--
 **patrick-n4/patrick-n4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
