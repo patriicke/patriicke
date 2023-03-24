@@ -1,8 +1,7 @@
 <samp><h2>Hi 👋 I am Patrick NDAYAMBAJE</h2>
-<p>I am a Fullstack developer based in Rwanda.<p>
+<p>I'm a Mid-Level Software Engineer with a passion for developing innovative solutions. I have experience with various programming languages, including Python, Java, and JavaScript, and modern web frameworks such as React and Angular. Additionally, I am proficient in cloud computing platforms like AWS and Azure. As a dedicated team player with excellent communication skills, I am open to diverse projects and committed to delivering high-quality, scalable software solutions on time and within budget.<p>
 <!-- <p>For more information click  <a href="https://www.patrickndayambaje.me" target="_blank">here</a></p> -->
 <!--<a href="https://github.com/patriicke" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriicke&langs_count=6&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Programming%20Languages&hide=php,html,Less,SCSS,CSS" alt="Mostly used programming languages" /></a> -->
-<p>Let's have connection</p>
 <a target="_blank" href="https://www.linkedin.com/in/ndayambaje-patrick-90737022b/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
