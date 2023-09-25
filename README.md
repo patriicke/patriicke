@@ -1,5 +1,5 @@
-<samp><h2>Hi 👋 I am Patrick NDAYAMBAJE</h2>
-<p>I'm a Mid-Level Software Engineer with a passion for developing innovative solutions. I have experience with various programming languages, including TypeScript, JavaScript, Python, Java, RoR, Dart, Go, PHP and C++ and modern web frameworks such as React, Nest,Next, FastAPI, Laravel, Angular and many others. Additionally, I am proficient in cloud computing platforms like AWS and Azure. As a dedicated team player with excellent communication skills, I am open to diverse projects and committed to delivering high-quality, scalable software solutions on time and within budget.<p>
+<samp><h2>Hi 👋</h2>
+<p>ai.<p>
 <!-- <p>For more information click  <a href="https://www.patrickndayambaje.me" target="_blank">here</a></p> -->
 <!--<a href="https://github.com/patriicke" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriicke&langs_count=6&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Programming%20Languages&hide=php,html,Less,SCSS,CSS" alt="Mostly used programming languages" /></a> -->
 <a target="_blank" href="mailto:patrickndayambaje4@gmail.com">
